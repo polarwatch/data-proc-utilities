@@ -1,4 +1,4 @@
-## Utility Functions for Processing Sea Ice Remote Sensing Data
+## PolarWatch Utilities for Processing Sea Ice Remote Sensing Data
 
 ### Repository Name: data-proc-utilities
 

@@ -1,0 +1,15 @@
+name: seaice
+channels:
+  - defaults
+dependencies:
+  - xarray
+  - pyproj
+  - jupyter
+  - netcdf4
+  - dask
+  - scipy
+  - h5netcdf
+  - matplotlib
+  - rioxarray
+  - cartopy
+

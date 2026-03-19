@@ -9,6 +9,6 @@ The collection of utilities is curated and actively maintained by
 PolarWatch.
 
 For inquiries, feedback, or to report issues, 
-please contact us at [polar.watch@noaa.gov](mailto:polar.watch@noaa.gov).
+please [contact us](https://coastwatch.noaa.gov/cwn/about/contact-us.html)
 
  
